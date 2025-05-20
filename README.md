@@ -87,7 +87,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/3521ce60-cbe6-43bf-9989-6be60cb67897/public_url">
-    <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="AWS Academy Graduate - AWS Academy Microservices and CI/CD Pipeline Builder" width="300" height="300"/>
+    <img src="https://github.com/user-attachments/assets/47dd9dce-4c41-48d9-8d57-d9061131e715" alt="AWS Academy Graduate - AWS Academy Microservices and CI/CD Pipeline Builder" width="300" height="300"/>
   </a>
 </div>
 
