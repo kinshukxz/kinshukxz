@@ -81,6 +81,14 @@
   <a href="https://www.credly.com/badges/7cedd2c5-3eb0-435c-b455-9291dc8e95a0/public_url">
     <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="aws-certified-solutions-architect-associate" width="300" height="300"/>
   </a>
+
+  <a href="https://www.credly.com/badges/eac5ff78-4009-4d3c-bdd6-e41bfb49d521/public_url">
+    <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="300" height="300"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/7cedd2c5-3eb0-435c-b455-9291dc8e95a0/public_url">
+    <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="aws-certified-solutions-architect-associate" width="300" height="300"/>
+  </a>
 </div>
 
 ---
