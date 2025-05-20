@@ -31,27 +31,11 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinshuksrivastava&show_icons=true&theme=github_dark&hide_title=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuksrivastava&theme=dark" />
-</p>
-
----
-
-### 🐍 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://github.com/kinshuksrivastava/kinshuksrivastava/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/kinshuksrivastava](https://www.linkedin.com/in/kinshuksrivastava/)
+- LinkedIn: [linkedin.com/in/kinshuksrivastava]([https://www.linkedin.com/in/kinshuksrivastava/](https://www.linkedin.com/in/kinshuk-srivastava-57932a241/))
 - Email: kinshuksriv9191@gmail.com
 
 ---
