@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="ChatGPT Image May 20, 2025, 02_22_49 PM.png" alt="Kinshuk Srivastava - DevOps Engineer" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Kinshuk Srivastava</h1>
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Tech Explorer</h3>
 
