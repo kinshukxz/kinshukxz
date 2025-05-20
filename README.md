@@ -13,10 +13,41 @@
 - ☁️ Cloud Platforms: **AWS | Azure | GCP**
 - 🔐 I’m diving into **DevSecOps**, **Monitoring**, and **GitHub Actions**
 - 🧠 Currently learning: **Prometheus, Grafana, OpenTelemetry**
-- ⚙️ Tech Stack:
-  `Linux` `Docker` `K8s` `Helm` `Git` `Bash` `GitHub Actions` `Terraform` `Trivy`
+- 💬 Ask me about:
+  - Infrastructure as Code: Terraform, CloudFormation, ARM, OpenTofu
+  - CI/CD Pipelines: GitHub Actions, Ansible, Shell
+  - Cloud Services: AWS Lambda, Amazon SQS, GCP Pub/Sub
+  - Orchestration: Kubernetes, kubectl, namespaces, deployments
+  - Automation & Monitoring: CloudWatch, Triggers, SSH, Networking
 
 ---
+
+### 🛠️ Full Skill Set
+
+
+🔧 Core DevOps:
+- Linux, Shell Scripting, Secure Shell (SSH)
+- Docker, Kubernetes, Containerization
+- Virtualization, Networking, SCM (Git)
+
+🛠️ CI/CD & Automation:
+- GitHub Actions, Ansible, Ansible Modules
+- Continuous Integration & Continuous Delivery (CI/CD)
+
+☁️ Cloud Platforms:
+- AWS: Lambda, SQS, CloudWatch, CLI, CloudFormation, AWS Stack
+- GCP: Cloudshell, Gcloud, Pub/Sub
+- Azure: ARM Template
+
+🧰 Infra as Code:
+- Terraform, OpenTofu, HashiCorp Tools
+
+📦 Kubernetes Concepts:
+- kubectl, Namespaces, ReplicaSet, Deployments, YAML
+
+📊 Monitoring & Observability:
+- Trivy, CloudWatch, Prometheus, Grafana
+
 
 ### 🔧 Tech Stack
 
