@@ -35,7 +35,7 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/kinshuksrivastava]([https://www.linkedin.com/in/kinshuksrivastava/](https://www.linkedin.com/in/kinshuk-srivastava-57932a241/))
+- LinkedIn: [https://www.linkedin.com/in/kinshuksrivastava/](https://www.linkedin.com/in/kinshuk-srivastava-57932a241/)
 - Email: kinshuksriv9191@gmail.com
 
 ---
