@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hexton09.Hexton09" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Singh+Nagesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kinshuk+Srivastava!;" />
 </h1>
 
 
@@ -17,7 +17,7 @@
  
  🔭 I’m currently working on **Multiple projects **
  
- 🌱 I’m currently learning **DevOps**
+ 🌱 I’m currently learning **DevOps & It's tools**
 
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
