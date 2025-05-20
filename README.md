@@ -83,7 +83,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/eac5ff78-4009-4d3c-bdd6-e41bfb49d521/public_url">
-    <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="300" height="300"/>
+    <img src="https://github.com/user-attachments/assets/bb5a49ae-038f-4b44-a6d2-f8b97728cc7c" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="300" height="300"/>
   </a>
 
   <a href="https://www.credly.com/badges/3521ce60-cbe6-43bf-9989-6be60cb67897/public_url">
