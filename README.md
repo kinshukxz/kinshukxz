@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=DevOps+%7C+Cloud+%7C+CI%2FCD+%7C+Kubernetes;I+break+things+to+fix+them+better!;Always+learning+new+techs+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Always+learning+new+techs;Passionate+about+DevOps+%26+Cloud;I+break+things+to+fix+them+better!" />
 </p>
 
 ---
@@ -57,15 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinshuksrivastava&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuksrivastava&theme=radical" height="150"/>
 </p>
 
 ---
