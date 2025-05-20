@@ -10,7 +10,7 @@
 ### 🌟 About Me
 
 - 💻 I’m currently working on DevOps Projects using **Terraform, Kubernetes, ArgoCD, and CI/CD**
-- ☁️ Cloud Platforms: **AWS | GCP**
+- ☁️ Cloud Platforms: **AWS | GCP | Azure**
 - 🔐 I’m diving into **DevSecOps**, **Monitoring**, and **GitHub Actions**
 - 🧠 Currently learning: **Prometheus, Grafana, OpenTelemetry**
 - ⚙️ Tech Stack:
@@ -52,9 +52,9 @@
 ### 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/kinshuksrivastava](https://www.linkedin.com/in/kinshuksrivastava/)
-- Email: kinshuksrivastava@example.com *(change this)*
+- Email: kinshuksriv9191@gmail.com
 
 ---
 
-_✨ Inspired by open-source. Built with love and YAML._
+
 
