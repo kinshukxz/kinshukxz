@@ -8,7 +8,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Always+learning+new+techs;Passionate+about+DevOps+%26+Cloud;I+break+things+to+fix+them+better!" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Always+learning+new+tech;Passionate+about+DevOps+%26+Cloud;I+break+things+to+fix+them+better!" />
 </p>
 
 ---
